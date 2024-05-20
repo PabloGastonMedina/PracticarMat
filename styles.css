@@ -131,6 +131,7 @@ footer{
 @media (max-width: 600px) {
     table{
         width: 94%;
+        font-size: 1rem;
     }
    input{
     width: 2.5rem;
