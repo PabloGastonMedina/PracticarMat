@@ -81,6 +81,20 @@ input{
     font-size: 2.5rem;
 }
 
+.parrafo_final{
+    font-size: 1.3rem;
+}
+
+.verde{
+    color: green;
+    font-weight: 800;
+}
+.rojo{
+    color: red;
+    font-weight: 800;
+
+}
+
 footer{
     margin-top: 4rem;
     margin-left: 70%;
@@ -109,12 +123,19 @@ footer{
   h3{
     font-size: 1rem;
   }
+  input{
+    font-size: 1.3rem;
+  }
 }
 
 @media (max-width: 600px) {
+    table{
+        width: 94%;
+    }
    input{
     width: 2.5rem;
     height: 1.5rem;
+    font-size: 1rem;
    }
 
 }
